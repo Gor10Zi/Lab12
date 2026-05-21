@@ -1,0 +1,6 @@
+\babel@toc {ukrainian}{}\relax 
+\beamer@sectionintoc {1}{Трикутник}{3}{0}{1}
+\beamer@sectionintoc {2}{Види трикутників за сторонами}{4}{0}{2}
+\beamer@sectionintoc {3}{Види за кутами}{5}{0}{3}
+\beamer@sectionintoc {4}{Властивості трикутника}{6}{0}{4}
+\beamer@sectionintoc {5}{Застосування}{9}{0}{5}
